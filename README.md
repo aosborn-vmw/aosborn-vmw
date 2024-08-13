@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Cybersecurity 
 - 🌱 I’m currently learning ... Multi-cloud
 - 💞️ I’m looking to collaborate on ... Zero-trust 
-- 📫 How to reach me ... andrew.osborn@broadcom.com
+- 📫 How to reach me ... aosborn@omnissa.com
 
 <!---
 aosborn-vmw/aosborn-vmw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
